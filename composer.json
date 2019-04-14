@@ -1,0 +1,14 @@
+{
+    "name": "carlos/zemoga-fields",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    },
+    "authors": [
+        {
+            "name": "Carlos Alvarez",
+            "email": "carlosenam@hotmail.com"
+        }
+    ],
+    "require": {}
+}

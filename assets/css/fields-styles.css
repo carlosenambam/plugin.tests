@@ -1,0 +1,40 @@
+.developers {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.developers .dev {
+	margin: 5px 10px;
+	padding: 10px;
+	text-align: center;
+	flex: 0 0 31%;
+	border: 1px solid #333;
+	box-sizing: border-box;
+}
+
+.developers .dev p {
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.developers .dev input {
+	display: block;
+	margin: 2px auto;
+}
+
+.developers .show_photo {
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	border: 1px solid #333;
+}
+
+.developers .show_photo img {
+	width: 200px;
+}
+
+.developers .field_error {
+	padding: 0 5px;
+	margin: 2px 0;
+	color: #f00;
+}
